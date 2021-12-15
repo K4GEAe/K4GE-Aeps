@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intital-scale=1">
+    <title>K4GEAe Aeps</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body style="background-color: #111;"> 
+    <br>
+    <font color="gray">
+    <h1>K4GEAeのAep集</h1>
+    <h3>※ここにあるものはすべてリメイクです</h3>
+    <h2><a href="#Shoko2exe">Shoko 2.0exe Remake</h2>
+    </font>
+    </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+    <img src="img/hqdefault.jpg" border="3" width="470px">
+    </br>
+    <ul> 
+        <li><h2 id="Shoko2exe">Shoko 2.0exe remake Aep(未完成)</h2></li>
+        <ul>
+            <font color="gray">
+            <h4>
+            <li><a href="https://cdn.discordapp.com/attachments/889671302158381106/920609735894507520/Shoko_Remake.aep" target="_blank">Aepのみ(direct download)</a></li></h4>
+            <h4>
+            <li><a href="https://www.mediafire.com/file/nkioa59iuj7lt0l/Shoko_2.0exe_remake.zip/file" target="_blank">PF内で使用している動画(mediafire)</a></li></h4>
+            </font>
+        </ul>
+        <font color="gray">
+            <h3>必要プラグイン</li></h3>
+            <b>
+        <li>Sapphire</li></b>
+        <ul>
+            <li>S_Flicker</li>
+            <li>CCの質向上に使ってます</li>
+        </ul>
+        <b>
+        <li>Looks</li></b>
+        <ul>
+            <li>CCに使います</li>
+        </ul>
+        <b>
+        <li>instant4k</li></b>
+        <ul>
+            <li>動画素材の画質を上げるために使ってます</li>
+            <li>CCのクオリティを上げるために使ってます</li>
+        </ul>
+        <b>
+        <li>DeepGlow</li></b>
+        <b>
+        <li>BCC</li></b>
+        </font>
+    </ul>
+    </div>>
+</body>
+</html>
